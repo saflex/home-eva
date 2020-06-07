@@ -1,0 +1,242 @@
+.footer {
+  height: auto;
+  overflow: hidden;
+}
+
+.footer ul li{
+	text-align: left;
+}
+
+.footer h4{
+	text-align: left;
+}
+
+
+.footer .input-group.fll {
+    max-width: 400px;
+}
+
+.top-foorer p{
+	margin-right: 10px;
+}
+
+
+.top-foorer p, .footer h4, .footer a{
+	color: #403A37;
+}
+
+
+footer.footer {
+    padding-top: 53px;
+    padding-bottom: 45px;
+}
+
+.top-foorer p{
+	font-size: 21px;
+	      font-family: 'Open Sans', sans-serif;
+      text-transform: uppercase;
+      font-weight: 500;
+}
+
+.top-foorer p.fll {
+    max-width: 195px;
+    text-align: left;
+}
+
+.footer .input-groups.fll {
+    max-width: 600px;
+}
+
+.footer .input-groups.fll {
+    max-width: 600px;
+    height: 47px;
+}
+.input-groups .form-control{
+	height: 47px;
+	      font-family: "LatoRegular" !important;
+	  font-size: 13px;
+	  font-weight: 500;
+	  width: 500px;
+}
+
+.input-group-addon {
+    padding: 6px 27px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: #64c733;
+    border: 1px solid #64c733;
+    border-radius: 4px;
+}
+button.button.fll{
+	background: #65c734;
+    padding: 11px 14px;
+    margin-top: -20px;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    margin-left: 17px;
+    cursor: pointer;
+    border: 0;
+}
+
+button.button.fll {
+    background: #65c734;
+    padding: 0px 33px;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 17px;
+    letter-spacing: 0.3px;
+    margin-left: 17px;
+    cursor: pointer;
+    border: 0;
+    height: 47px;
+    margin-top: 0px;
+    font-family: "LatoRegular";
+}
+button.button.fll:hover{
+		     background: #469587;
+}
+    
+.footer .soc-area {
+    float: right;
+    margin-top: 4px;
+    margin-right: -4px;
+}
+
+.footer .soc-area .soc1 {
+    background: url(../img/socials.png) 0 0 no-repeat;
+    width: 38px;
+    height: 39px;
+    display: block;
+    float: left;
+    background-position: 0 0;
+}
+.footer .soc-area .soc2 {
+	   background: url(../img/socials.png) 0 0 no-repeat;
+    width: 38px;
+    height: 39px;
+    display: block;
+    float: left;
+    background-position: -45px 0;
+    margin-left: 6px;
+}
+
+.footer .soc-area .soc3 {
+	   background: url(../img/socials.png) 0 0 no-repeat;
+    width: 38px;
+    height: 39px;
+    display: block;
+    float: left;
+    background-position: -90px 0;
+    margin-left: 6px;
+}
+
+.footer .soc-area .soc4 {
+	   background: url(../img/socials.png) 0 0 no-repeat;
+    width: 38px;
+    height: 39px;
+    display: block;
+    float: left;
+    background-position: -133px 0;
+    margin-left: 6px;
+}
+
+.footer .soc-area .soc5 {
+	   background: url(../img/socials.png) 0 0 no-repeat;
+    width: 38px;
+    height: 39px;
+    display: block;
+    float: left;
+   background-position: -179px 0;
+   margin-left: 6px;
+}
+
+.bottom-footer ul li a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.bottom-footer ul li a:hover{
+	color: #0c9da6;
+	text-decoration: underline;
+}
+
+.phone-area p{
+	font-size: 24px;
+	   font-family: 'Montserrat', sans-serif;
+}
+
+.phone-area p:before {
+    content: '';
+    position: absolute;
+    background: url(../img/phone-f2.png) 0 0 no-repeat;
+    background-size: contain;
+    width: 35px;
+    height: 35px;
+    margin-left: -40px;
+}
+.phone-area a{
+	  font-family: 'Montserrat', sans-serif;
+	  color: #12a8ba;
+	  text-decoration: underline;
+}
+
+.phone-area a:hover, .phone-area a:focus{
+	text-decoration: none;
+	color: #12a8ba;
+}
+
+.pod-foot-area p {
+    text-transform: none !important;
+    font-size: 12px;
+    text-align: left;
+    max-width: 1000px;
+    padding-right: 100px;
+    padding-left: 0px;
+    color: #797979;
+}
+
+.pod-foot-area{
+	position: relative;
+	margin-top: 50px;
+}
+
+.fx-spl {
+    position: absolute;
+    right: -4px;
+    top: 0;
+    background: url(../img/rs-f.png) 0 0 no-repeat;
+    width: 92px;
+    height: 60px;
+    margin-top: -8px;
+}
+
+p.copy {
+    margin-top: 23px;
+    margin-bottom: 15px;
+}
+
+.bottom-footer ul li a:focus{
+	color: #000;
+}
+
+footer.footer{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.footer ul li {
+    text-align: left;
+    line-height: 23px;
+    margin-bottom: 14px;
+}
+
+header {
+    position: relative;
+    z-index: 997;
+}

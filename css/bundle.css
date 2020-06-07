@@ -1,0 +1,15 @@
+/* Блоки и секции */
+@import "bootstrap.css";
+@import "header.css";
+@import "section-main.css";
+@import "section-tovar.css";
+@import "footer.css";
+/* Общие стили */
+@import "reset.css";
+@import "style.css";
+@import "media.css";
+/* Стили для шрифтов */
+@import "../fonts/OpenSans/stylesheets.css";
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
