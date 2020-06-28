@@ -1,14 +1,14 @@
 .footer {
-  height: auto;
-  overflow: hidden;
+    height: auto;
+    overflow: hidden;
 }
 
-.footer ul li{
-	text-align: left;
+.footer ul li {
+    text-align: left;
 }
 
-.footer h4{
-	text-align: left;
+.footer h4 {
+    text-align: left;
 }
 
 
@@ -16,13 +16,15 @@
     max-width: 400px;
 }
 
-.top-foorer p{
-	margin-right: 10px;
+.top-foorer p {
+    margin-right: 10px;
 }
 
 
-.top-foorer p, .footer h4, .footer a{
-	color: #403A37;
+.top-foorer p,
+.footer h4,
+.footer a {
+    color: #403A37;
 }
 
 
@@ -31,11 +33,11 @@ footer.footer {
     padding-bottom: 45px;
 }
 
-.top-foorer p{
-	font-size: 21px;
-	      font-family: 'Open Sans', sans-serif;
-      text-transform: uppercase;
-      font-weight: 500;
+.top-foorer p {
+    font-size: 21px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
 .top-foorer p.fll {
@@ -51,12 +53,13 @@ footer.footer {
     max-width: 600px;
     height: 47px;
 }
-.input-groups .form-control{
-	height: 47px;
-	      font-family: "LatoRegular" !important;
-	  font-size: 13px;
-	  font-weight: 500;
-	  width: 500px;
+
+.input-groups .form-control {
+    height: 47px;
+    font-family: "LatoRegular";
+    font-size: 13px;
+    font-weight: 500;
+    width: 500px;
 }
 
 .input-group-addon {
@@ -70,8 +73,9 @@ footer.footer {
     border: 1px solid #64c733;
     border-radius: 4px;
 }
-button.button.fll{
-	background: #65c734;
+
+button.button.fll {
+    background: #65c734;
     padding: 11px 14px;
     margin-top: -20px;
     color: #fff;
@@ -97,10 +101,11 @@ button.button.fll {
     margin-top: 0px;
     font-family: "LatoRegular";
 }
-button.button.fll:hover{
-		     background: #469587;
+
+button.button.fll:hover {
+    background: #469587;
 }
-    
+
 .footer .soc-area {
     float: right;
     margin-top: 4px;
@@ -115,8 +120,9 @@ button.button.fll:hover{
     float: left;
     background-position: 0 0;
 }
+
 .footer .soc-area .soc2 {
-	   background: url(../img/socials.png) 0 0 no-repeat;
+    background: url(../img/socials.png) 0 0 no-repeat;
     width: 38px;
     height: 39px;
     display: block;
@@ -126,7 +132,7 @@ button.button.fll:hover{
 }
 
 .footer .soc-area .soc3 {
-	   background: url(../img/socials.png) 0 0 no-repeat;
+    background: url(../img/socials.png) 0 0 no-repeat;
     width: 38px;
     height: 39px;
     display: block;
@@ -136,7 +142,7 @@ button.button.fll:hover{
 }
 
 .footer .soc-area .soc4 {
-	   background: url(../img/socials.png) 0 0 no-repeat;
+    background: url(../img/socials.png) 0 0 no-repeat;
     width: 38px;
     height: 39px;
     display: block;
@@ -146,29 +152,29 @@ button.button.fll:hover{
 }
 
 .footer .soc-area .soc5 {
-	   background: url(../img/socials.png) 0 0 no-repeat;
+    background: url(../img/socials.png) 0 0 no-repeat;
     width: 38px;
     height: 39px;
     display: block;
     float: left;
-   background-position: -179px 0;
-   margin-left: 6px;
+    background-position: -179px 0;
+    margin-left: 6px;
 }
 
-.bottom-footer ul li a{
-	text-decoration: none;
-	font-size: 18px;
-	font-weight: normal;
+.bottom-footer ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: normal;
 }
 
-.bottom-footer ul li a:hover{
-	color: #0c9da6;
-	text-decoration: underline;
+.bottom-footer ul li a:hover {
+    color: #0c9da6;
+    text-decoration: underline;
 }
 
-.phone-area p{
-	font-size: 24px;
-	   font-family: 'Montserrat', sans-serif;
+.phone-area p {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .phone-area p:before {
@@ -180,19 +186,21 @@ button.button.fll:hover{
     height: 35px;
     margin-left: -40px;
 }
-.phone-area a{
-	  font-family: 'Montserrat', sans-serif;
-	  color: #12a8ba;
-	  text-decoration: underline;
+
+.phone-area a {
+    font-family: 'Montserrat', sans-serif;
+    color: #12a8ba;
+    text-decoration: underline;
 }
 
-.phone-area a:hover, .phone-area a:focus{
-	text-decoration: none;
-	color: #12a8ba;
+.phone-area a:hover,
+.phone-area a:focus {
+    text-decoration: none;
+    color: #12a8ba;
 }
 
 .pod-foot-area p {
-    text-transform: none !important;
+    text-transform: none;
     font-size: 12px;
     text-align: left;
     max-width: 1000px;
@@ -201,9 +209,9 @@ button.button.fll:hover{
     color: #797979;
 }
 
-.pod-foot-area{
-	position: relative;
-	margin-top: 50px;
+.pod-foot-area {
+    position: relative;
+    margin-top: 50px;
 }
 
 .fx-spl {
@@ -221,13 +229,13 @@ p.copy {
     margin-bottom: 15px;
 }
 
-.bottom-footer ul li a:focus{
-	color: #000;
+.bottom-footer ul li a:focus {
+    color: #000;
 }
 
-footer.footer{
-	padding-left: 0;
-	padding-right: 0;
+footer.footer {
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .footer ul li {
